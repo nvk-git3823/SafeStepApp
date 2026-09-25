@@ -1,5 +1,7 @@
 # 🎀 SafeStep — Elderly Care App and Fall Detection Band 🎀
 
+Live App Link: https://nvk-git3823.github.io/SafeStepApp/
+
 ## ⚙️ Fall Detection & Emergency Alert System Band
 
 SafeStep uses an **ESP32 Super Mini** with an **MPU6050 accelerometer and gyroscope** to continuously monitor movement, acceleration, and orientation. The ESP32 processes the sensor data and detects motion patterns associated with potential falls. When a fall is confirmed, a **piezo buzzer** is activated to provide an immediate local alert.
