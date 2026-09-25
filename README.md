@@ -1,4 +1,4 @@
-# 🎀 SafeStep — Elderly Care App and Fall Detection Band 🎀
+# 🎀 Diploma Final Year Project - SafeStep (Elderly Care App and Fall Detection Band) 🎀
 
 Live App Link: https://nvk-git3823.github.io/SafeStepApp/
 
